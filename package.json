@@ -19,10 +19,16 @@
   "homepage": "https://github.com/DavyL0/my-date-app#readme",
   "dependencies": {
     "@prisma/client": "^6.16.0",
+    "bcrypt": "^6.0.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
     "pg": "^8.16.3",
     "prisma": "^6.16.0"
   },
   "devDependencies": {
+    "@types/bcrypt": "^6.0.0",
+    "@types/express": "^5.0.3",
+    "@types/jsonwebtoken": "^9.0.10",
     "@types/pg": "^8.15.5"
   }
 }
