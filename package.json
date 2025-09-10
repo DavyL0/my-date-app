@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/DavyL0/my-date-app/issues"
   },
-  "homepage": "https://github.com/DavyL0/my-date-app#readme"
+  "homepage": "https://github.com/DavyL0/my-date-app#readme",
+  "dependencies": {
+    "@prisma/client": "^6.16.0",
+    "pg": "^8.16.3",
+    "prisma": "^6.16.0"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.15.5"
+  }
 }
